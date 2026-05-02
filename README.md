@@ -1,4 +1,4 @@
-# 📊 Machine Learning Learning Journey
+# 📊 Machine Learning Journey
 
 This repository contains my hands-on practice and implementation of core data science and machine learning concepts using Python.
 
